@@ -1,2 +1,3 @@
 # On va ignorer le dossier database
 database/
+test/
